@@ -1,25 +1,25 @@
-# Deepvocal��������(FAQ)
-��ctrl+F�����ڱ����в���
+# Deepvocal常见问题(FAQ)
+按ctrl+F可以在本文中查找
 
-## 1.��ε�����Դ��
-exe��˫�����У�����ʾһ�����������ɣ���װλ�����⣩
+## 1.如何导入音源？
+exe：双击运行，按提示一步步操作即可（安装位置随意，建议安装到空间充裕的磁盘）
 
-ѹ��������ѹ��deepvocal��װĿ¼�µ�singers�ļ����У�ʹĿ¼�ṹ������ʾ
+压缩包：解压到deepvocal安装目录下的singers文件夹中，使目录结构如下所示
 ```
 singers
- ����xxx
-    ����SKI
-    ����SKC
-    ����voice.sksd
+ └─xxx
+    ├─SKI
+    ├─SKC
+    └─voice.sksd
 ```
 
-## 2.����޸����٣���BPM��
-���촰�ϵ�����ߣ�˫�����Ͻǡ�TEMPO�����������
-![�޸�����](Resource/1.png)
+## 2.如何修改曲速？（BPM）
+音轨窗拖到最左边，双击左上角“TEMPO”后面的数字
+![修改曲速](Resource/1.png)
 
-## 3.dv�༭��������ô�죿
-dv�༭�������Զ����ݹ��ܣ�Ĭ��Ϊÿ5���ӱ���һ�Ρ�
+## 3.dv编辑器闪退怎么办？
+dv编辑器具有自动备份功能，默认为每5分钟保存一次。
 
-������½��ļ������µ����mid��vsqx�ļ�����ôֻ�����¿�ʼ�༭
+如果是新建文件，或新导入的mid、vsqx文件，那么文件丢失，只能重新开始编辑
 
-����Ѿ�������dv�ļ�����ͬһ�ļ����»���ֺ�׺��Ϊ.dv_bak���ļ����������Զ������ļ�����deepvocal�򿪼��ɡ�
+如果已经保存了dv文件，则同一文件夹下会出现后缀名为.dv_bak的文件，它就是自动备份文件，用deepvocal打开即可。
