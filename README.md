@@ -2,7 +2,7 @@
 deepvocal非官方文档，正在建设中
 
 ## 目录
-[1.Deepvocal简介](https://gitee.com/oxygendioxide/dvdoc/blob/master/1_description.md)
+[1.Deepvocal简介](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/1_description.md)
 
 [Deepvocal常见问题(FAQ)](https://gitee.com/oxygendioxide/dvdoc/blob/master/faq.md)
 
