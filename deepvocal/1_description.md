@@ -2,7 +2,7 @@
 [Deepvocal](https://www.deep-vocal.com/#/)（dv）是一款自由，免费，非商业的歌声合成软件，由[Boxstar](https://space.bilibili.com/7644915)开发。用户可使用Deepvocal Toolbox（dvtb）开发dv音源。
 
 ## 运行环境
-目前，dv和dvtb均仅原生支持windows，但可以通过wine在mac和linux上运行
+目前，dv和dvtb均仅原生支持windows，但可以通过wine在mac和linux上运行。
 
 ## 历史
 dv的前身是Sharpkey（sk），dv沿用了sk的界面，但是开发了新的合成引擎。
@@ -17,7 +17,7 @@ dv的前身是Sharpkey（sk），dv沿用了sk的界面，但是开发了新的合成引擎。
 
 2019年9月20日，dv1.1.6发布
 
-## 工作原理简介
+## 工作原理
 #### 歌声合成引擎的分类
 - 人工智能型：通过AI学习真实歌声数据库进行合成。需要大量音频数据，音源体积小，不易破解，模拟真人演唱技巧更加真实，例如Cevio、Muta、Aisingers
 - 采样型：事先录制好某一种语言的所有音节，合成时调用对应音频，通过算法变调到指定音高与时长，再拼接成歌声。需要的音频数据较少，音源体积大。这种引擎又分为两种：
@@ -33,12 +33,15 @@ hao yi duo mei li di mo li hua
 ```
 -hao ao_y yi i_d duo o_m mei ei_ly li i_d di i_m mo o_li li i_hw hua a_-
 ```
+具体原理可参考[riskucvvc官方lofter](https://riskucvvc.lofter.com/introduction)
 
 #### 合成器
 本部分基于一些实验进行推测，可能与真实合成机制不同
 
-dv将原始音频分为“乐音”（基音+泛音，包括元音、浊辅音）和“噪音”（清辅音、呼吸音、底噪）两部分处理。
+dv将原始音频分为“乐音”（基音+泛音，包括元音、浊辅音）和“噪音”（清辅音、呼吸音、底噪，听起来像悄悄话）两部分处理。
 
 音源制作时，dv分析原始音频，通过傅里叶变换分别计算出乐音每一级谐波的强度，以及噪音的频谱，存储在Dvmodel文件中，再打包为音源。
 
-合成时，再根据音源中的数据经过逆傅里叶变换分别合成乐音和噪音，叠加在一起。“气声”参数用来调节噪音的强度。
+合成时，再根据音源中的数据经过逆傅里叶变换分别合成乐音和噪音，叠加在一起。“气声”参数用来控制噪音的强度。
+
+[下一章：调校前的准备](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/2_preparation.md)

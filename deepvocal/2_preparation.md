@@ -1,11 +1,13 @@
 # 调校前的准备
 
 ## 安装deepvocal
-deepvocal的最新版本为1.1.6，更新日期2019-9-20
+deepvocal的最新版本为1.1.6，更新日期2019年9月20日
 
 首先访问[deepvocal官网](https://www.deep-vocal.com/#/)，点击"下载"
+
 ![](Resource/2020-06-19-22-08-30.png)
-点击左边的"下载"按钮（右边是做音源用的，我们先不用下载），解压，运行里面的exe文件
+
+点击左边的"下载"按钮（右边是做音源用的，我们先不用下载），解压，运行里面的exe文件，一路点下一步就行了。
 
 安装时最好放在非C盘（否则设置可能不能保存），空间充裕的磁盘
 
@@ -15,7 +17,7 @@ deepvocal的最新版本为1.1.6，更新日期2019-9-20
 
 [这个专栏](https://www.bilibili.com/read/cv4252529)整理了b站2019年的所有dv音源
 
-新手上路建议使用北京航空航天大学开发的[飞梦](http://buaaacg.org/2019/06/29/vbrelease/)
+新手上路建议使用北京航空航天大学开发的[飞梦](http://buaaacg.org/2019/06/29/vbrelease/)（北航被列入美国黑名单，希望大家多支持他们）
 
 ### 国外音源
 可以在[fandom deepvocal wikia](https://deepvocal.fandom.com/wiki/DeepVocal_Wikia)寻找
@@ -39,4 +41,7 @@ singers
     └─voice.sksd
 ```
 示例
+
 ![](Resource/2020-06-19-22-55-38.png)
+
+[上一章：Deepvocal简介](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/1_description.md)
