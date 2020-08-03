@@ -25,11 +25,13 @@ dv的前身是Sharpkey（sk），dv沿用了sk的界面，但是开发了新的合成引擎。
     - 参量型：对原始音频进行分析后得到中间参量（例如频谱），储存在音源中，合成时再基于中间参量合成歌声。音源不易破解，如Moresampler、SynthV、Deepvocal
 
 #### 采样器
+deepvocal采用CVVC方案。将每个音节分为“辅音到元音”(CV)和“元音到下一个辅音的过渡段”(VC)。拆分过程在dv内部自动完成，无需手动拆分。
+
 以“好一朵美丽滴茉莉花”为例
 ```
 hao yi duo mei li di mo li hua
 ```
-将每个音节分为“辅音到元音”和“元音到下一个辅音的过渡段”。这种拼接方式叫做CVVC
+拆分后：
 ```
 -hao ao_y yi i_d duo o_m mei ei_ly li i_d di i_m mo o_li li i_hw hua a_-
 ```
