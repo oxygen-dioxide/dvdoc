@@ -41,3 +41,6 @@ dv中一般使用br1 br2 br3 br4 br5表示吸气音
 格式：每行一条
 
 尾音一般用于语尾息和尾辅音
+
+## 参考链接
+[Boxstar dvtb教程](https://share.weiyun.com/5snXMol)
