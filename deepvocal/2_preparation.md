@@ -52,4 +52,4 @@ singers
 
 ![](Resource/2020-06-19-22-55-38.png)
 
-[上一章：Deepvocal简介](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/1_description.md)
+[上一章：Deepvocal简介](./1_description.md)

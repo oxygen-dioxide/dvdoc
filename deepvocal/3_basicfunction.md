@@ -66,4 +66,4 @@ dvµÄ½çÃæ×ÔÉÏ¶øÏÂ·ÖÎª4¸öÇøÓò£º²Ëµ¥À¸¡¢¹¤¾ßÀ¸¡¢Òô¹ì´°¡¢¸ÖÇÙ´°¡£ÆäÖÐ£¬Òô¹ì´°¡¢¸ÖÇÙ´
 
 Ä¿Ç°£¨1.1.6£©dvÖ§³Ö6¸ö²ÎÊý£ºÒôÁ¿£¬Òôµ÷£¬ÆøÉù£¬ÒôËØ£¬ÒôÉ«£¬ÉùÏß£¨ÐÔ±ð£©
 
-[ÉÏÒ»ÕÂ£ºµ÷Ð£Ç°µÄ×¼±¸](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/2_preparation.md)
+[ÉÏÒ»ÕÂ£ºµ÷Ð£Ç°µÄ×¼±¸](./2_preparation.md)

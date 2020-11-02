@@ -2,13 +2,13 @@
 deepvocal非官方文档，正在建设中
 
 ## 目录
-[1.Deepvocal简介](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/1_description.md)
+[1.Deepvocal简介](./deepvocal/1_description.md)
 
-[2.调校前的准备](https://gitee.com/oxygendioxide/dvdoc/blob/master/deepvocal/2_preparation.md)
+[2.调校前的准备](./deepvocal/2_preparation.md)
 
-[Deepvocal常见问题(FAQ)](https://gitee.com/oxygendioxide/dvdoc/blob/master/faq.md)
+[Deepvocal常见问题(FAQ)](./faq.md)
 
-[Deepvocal相关工具](https://gitee.com/oxygendioxide/dvdoc/blob/master/tools.md)
+[Deepvocal相关工具](./tools.md)
 ## 参与贡献
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
