@@ -39,3 +39,5 @@ dvtb将音频和原音设定编译为后缀名为DVModel的中间文件，再打包为dv音源（包含SKC、SK
 9. 点击“Build Voice Bank”，选择日志文件的存放位置，开始打包
 
 打包所需时间一般在1分钟内，会在输出文件夹下生成SKC、SKI、voice.sksd三个文件。打包完成后会显示缺失的DVModel中间文件。
+
+

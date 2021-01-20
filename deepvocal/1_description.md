@@ -1,57 +1,76 @@
-# Deepvocal���
-[Deepvocal](https://www.deep-vocal.com/#/)��dv����һ�����ɣ���ѣ�����ҵ�ĸ����ϳ���������[Boxstar](https://space.bilibili.com/7644915)�������û���ʹ��Deepvocal Toolbox��dvtb������dv��Դ��
+# Deepvocal简介
+[Deepvocal](https://www.deep-vocal.com/#/)（dv）是一款自由，免费，非商业的歌声合成软件，由[Boxstar](https://space.bilibili.com/7644915)开发，输入歌词和乐谱即可合成歌声。
 
-## ���л���
-Ŀǰ��dv��dvtb����ԭ��֧��windows��������ͨ��wine��mac��linux�����С�
+通过Deepvocal Toolbox（dvtb），用户可以录制自己的声音，导入dv用于合成歌声，并分享给其他用户。一套这样的声音称为“音源”或“声库”。
 
-## ��ʷ
-dv��ǰ����Sharpkey��sk����dv������sk�Ľ��棬���ǿ������µĺϳ����档
+## 运行环境
+目前，dv和dvtb均仅原生支持windows，但可以通过wine在mac和linux上运行。
 
-2019��1�£�Sharpkey Galaxy Editor��skg���������ϳ�����汾Ϊ6.0����������dv���棩������5�����������������������������أ���ɫ�������Ǹð汾skg����Դ�ڴ˺���汾dv�о�����֧��
+## 历史
+dv的前身是Sharpkey（sk），dv沿用了sk的界面，但是开发了新的合成引擎。
 
-2019��6��7�գ�dv����[����](https://www.bilibili.com/video/BV1e4411K7Jq)����ʼ���⣬�༭���汾1.0.0������汾6.0������֧��ͬΪ6.0��skg��Դ
+2019年1月，Sharpkey Galaxy Editor（skg）发布，合成引擎版本为6.0（即后来的dv引擎），包含5个参数（音量，音调，气声，音素，音色）。但是该版本skg的音源在此后各版本dv中均不被支持
 
-2019��7��16�գ�dv1.0.6��dvtb1.0.7��������
+2019年6月7日，dv发布[试听](https://www.bilibili.com/video/BV1e4411K7Jq)，开始公测，编辑器版本1.0.0，引擎版本6.0，但不支持同为6.0的skg音源
 
-2019��9��7�գ�dv1.1.4����������汾6.1���������������ߡ����Ա�
+2019年7月16日，dv1.0.6和dvtb1.0.7开放下载
 
-2019��9��20�գ�dv1.1.6��dvtb1.1.6����
+2019年9月7日，dv1.1.4发布，引擎版本6.1，新增参数“声线”（性别）
 
-2020��8��10�գ�������Ϣ��dv2.0����������[bվ��̬](https://t.bilibili.com/421791923350625565?tab=2) [dv2�������������硷](https://www.bilibili.com/video/av669639483?from=search&seid=6403875191891787502)
+2019年9月20日，dv1.1.6与dvtb1.1.6发布
 
-- ����dv����汾��dv�༭�������ö���汾���棬��ÿ����Դֻ֧��һ���ض��汾�����棬ȡ���ڸ���Դ������ʱʹ�õ�dvtb�汾��dv���Զ�������Դѡ������汾��һ����˵���°�༭�������ɰ����棬�ɰ�༭���������°����档���⣺dv������汾6.x��������5.x�����档
+2021年1月20日：dv2.1.0与dvtb2.1.0发布，引擎版本7.0
 
-    ���磬��dv1.1.6��ʹ��"����_v0.9"ʱ��ʵ��ʹ�õ��Ǿɰ汾4.02�����棬���������°����档
+- 关于dv引擎版本：dv编辑器中内置多个版本引擎，而每个音源只支持一个特定版本的引擎，取决于该音源编译打包时使用的dvtb版本。dv会自动根据音源选择引擎版本。一般来说，新版编辑器包含旧版引擎，旧版编辑器不包含新版引擎。例外：dv（引擎版本6.x）不包含5.x版引擎。
 
-    ���Ҫʹ�����°����棬�������°�dvtb���±���������Դ
+    例如，在dv1.1.6上使用"勇气_v0.9"时，实际使用的是旧版本4.02版引擎，而不是最新版引擎。
 
-## ����ԭ��
-#### �����ϳ�����ķ���
-- �˹������ͣ�ͨ��AIѧϰ��ʵ�������ݿ���кϳɡ���Ҫ������Ƶ���ݣ���Դ���С�������ƽ⣬ģ�������ݳ����ɸ�����ʵ������ Cevio��Muta��Aisingers��Microsoft xstudio
-- �����ͣ�����¼�ƺ�ĳһ�����Ե��������ڣ��ϳ�ʱ���ö�Ӧ��Ƶ��ͨ���㷨�����ָ��������ʱ������ƴ�ӳɸ�������Ҫ����Ƶ���ݽ��٣���Դ��������������ַ�Ϊ���֣�
-    - �ǲ����ͣ���Դ��ֱ�Ӵ洢ԭʼ��Ƶ���ϳ�ʱͨ��psola���㷨������ƵƵ�ʡ���Դ�����ƽ⣨UTAU����ֱ�ӱ�¶��Ƶ�ļ������������޸�ʹ�ã���Ϊ������ɣ�����UTAUĬ�����桢�����������
-    - �����ͣ���ԭʼ��Ƶ���з�����õ��м����������Ƶ�ף�����������Դ�У��ϳ�ʱ�ٻ����м�����ϳɸ�������Դ�����ƽ⣬�� Moresampler��SynthV��Deepvocal
+    如果要使用最新版引擎，请用最新版dvtb重新编译与打包音源。
 
-#### ������
-deepvocal����CVVC��������ÿ�����ڷ�Ϊ��������Ԫ����(CV)�͡�Ԫ������һ�������Ĺ��ɶΡ�(VC)����ֹ�����dv�ڲ��Զ���ɣ������ֶ���֡�
+## 工作原理
+#### 歌声合成引擎的分类
+- 人工智能型：通过AI学习真实歌声数据库进行合成。需要大量音频数据，音源体积小，不易破解，模拟真人演唱技巧更加真实，例如 Cevio、Muta、Aisingers、Microsoft X Studio
+- 采样型：事先录制好某一种语言的所有音节，合成时调用对应音频，通过算法变调到指定音高与时长，再拼接成歌声。需要的音频数据较少，音源体积大。这种引擎又分为两种：
+    - 非参量型：音源中直接存储原始音频，合成时通过psola等算法调整音频频率。音源容易破解（UTAU甚至直接暴露音频文件，可以自行修改使用，更为灵活自由），如UTAU默认引擎、袅袅虚拟歌手
+    - 参量型：对原始音频进行分析后得到中间参量（例如频谱），储存在音源中，合成时再基于中间参量合成歌声。音源不易破解，如 Moresampler、SynthV、Deepvocal
 
-�ԡ���һ�����������򻨡�Ϊ��
+#### 采样器
+deepvocal采用CVVC方案。将每个音节分为“辅音到元音”(CV)和“元音到下一个辅音的过渡段”(VC)。拆分过程在dv内部自动完成，无需手动拆分。
+
+以“好一朵美丽滴茉莉花”为例
 ```
 hao yi duo mei li di mo li hua
 ```
-��ֺ�
+拆分后：
 ```
 -hao ao_y yi i_d duo o_m mei ei_ly li i_d di i_m mo o_li li i_hw hua a_-
 ```
-����ԭ���ɲο�[riskucvvc�ٷ�lofter](https://riskucvvc.lofter.com/introduction)
+具体原理可参考[riskucvvc官方lofter](https://riskucvvc.lofter.com/introduction)
 
-#### �ϳ���
-�����ֻ���һЩʵ������Ʋ⣬��������ʵ�ϳɻ��Ʋ�ͬ
+#### 合成器
+本部分基于一些实验进行推测，可能与真实合成机制不同
 
-dv��ԭʼ��Ƶ��Ϊ��������������+����������Ԫ�����Ǹ������͡����������帨���������������룬�����������Ļ��������ִ�����
+dv将原始音频分为“乐音”（基音+泛音，包括元音、浊辅音）和“噪音”（清辅音、呼吸音、底噪，听起来像悄悄话）两部分处理。
 
-��Դ����ʱ��dv����ԭʼ��Ƶ��ͨ������Ҷ�任�ֱ���������ÿһ��г����ǿ�ȣ��Լ�������Ƶ�ף��洢��Dvmodel�ļ��У��ٴ��Ϊ��Դ��
+音源制作时，dv分析原始音频，通过傅里叶变换分别计算出乐音每一级谐波的强度，以及噪音的频谱，存储在Dvmodel文件中，再打包为音源。
 
-�ϳ�ʱ���ٸ�����Դ�е����ݾ����渵��Ҷ�任�ֱ�ϳ�������������������һ�𡣡�������������������������ǿ�ȡ�
+合成时，再根据音源中的数据经过逆傅里叶变换分别合成乐音和噪音，叠加在一起。“气声”参数用来控制噪音的强度。
 
-[��һ�£���Уǰ��׼��](./2_preparation.md)
+## 术语解释
+- **音源/声库**：用于歌声合成的音频数据库，包含一个人录制的一门语言中所有的正常发音。可以大致认为“音源=歌手”
+
+    不同引擎的音源不通用。例如，vocaloid音源不适用于dv。
+
+    歌声合成领域的“音源”和“声库”是同义词。“音源”来自计算机音乐（midi音乐）领域，而“声库”来自语音合成领域。
+
+- **工程**：用于歌声合成的乐谱文件，记录一首歌曲中音符的起始终止时间，音高，歌词，参数等信息。
+
+    - **.mid**：一般称作“MIDI”，是计算机音乐领域通用的乐谱文件格式。大部分音乐制作软件（包括dv）都支持这种文件格式。
+    - **.vsqx**：VOCALOID的文件格式，deepvocal支持导入vsqx文件。
+    - **.ust**：UTAU的文件格式，UTAU导出的mid文件导入到dv中自带歌词。
+    - **.dv**：deepvocal的文件格式。
+    - **.sk**：sharpkey的文件格式，本质与.dv文件相同，可直接修改后缀名互转。
+
+    使用[UtaFormatix](https://sdercolin.github.io/utaformatix3/)，可在多种工程文件格式间互转。
+
+[下一章：调校前的准备](./2_preparation.md)

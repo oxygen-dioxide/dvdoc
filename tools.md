@@ -6,19 +6,13 @@
 ### Deepvocal本体 by Boxstar
 [下载](https://www.deep-vocal.com/#/Downloading?target=editor)
 
-### dvfile-python by oxygendioxide
-解析dv文件的python库，具有导出midi、ust、五线谱等功能
-
-本库不适合一般dv用户使用，主要面向有编程能力的用户，用于开发dv工程相关工具
-
-[源代码](https://gitee.com/oxygendioxide/dvfile)
-
-下载：pip install dvfile
+### Utaformatix3 by sdercolin
+一个在线的歌声合成工程转换器，支持vsqx, vpr, vsq, ust, ccs, svp, s5p, dv [打开](https://sdercolin.github.io/utaformatix3/)
 
 ## 音源制作
 
 ### Deepvocal Toolbox by Boxstar
-Deepvocal音源制作必要工具，包括原音设定、建模、打包功能。
+Deepvocal音源制作工具，包括原音设定、建模、打包功能。
 
 [下载](https://www.deep-vocal.com/#/Downloading?target=toolbox)
 
@@ -36,8 +30,6 @@ Deepvocal音源制作必要工具，包括原音设定、建模、打包功能�
 UTAU原音设定转dv原音设定的工具
 
 [下载](https://github.com/justln1113/oto2dvcfg)
-
-[国内镜像](https://gitee.com/oxygendioxide/oto2dvcfg)
 
 ### reclist-gen-cvvc by sdercolin
 CVVC录音表生成器，根据utau的presamp.ini生成录音表（不支持dvtb文件）
