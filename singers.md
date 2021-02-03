@@ -28,18 +28,22 @@
 ## 下载教程
 由于dv音源较大，请按以下优先级选择下载方式：qq群 > 腾讯微云 > OneDrive > Google Drive > 百度网盘
 
-1.qq群和腾讯微云
-qq群和腾讯微云默认下载速度较慢，可以通过以下方式加速：
+1. qq群和腾讯微云
+    
+    qq群和腾讯微云默认下载速度较慢，可以通过以下方式加速：
 
-qq群: 用手机将群文件转发给电脑下载
+    qq群: 用手机将群文件转发给电脑下载
 
-腾讯微云: 先转存到自己的腾讯微云，然后在qq群中发送文件，选择“微云文件”，找到要下载的文件并发送。最后转发给电脑下载
+    腾讯微云: 先转存到自己的腾讯微云，然后在qq群中发送文件，选择“微云文件”，找到要下载的文件并发送。最后转发给电脑下载
 
-2.OneDrive
-OneDrive链接无法直接访问，可以将"1drv.ms"改成"1drv.ws"即可下载
+2. OneDrive
+    
+    OneDrive链接无法直接访问，可以将"1drv.ms"改成"1drv.ws"即可下载
 
-3.Google Drive
-Google Drive链接无法直接访问，可使用[iGG谷歌访问助手](https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg)访问
+3. Google Drive
+    
+    Google Drive链接无法直接访问，可使用[iGG谷歌访问助手](https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg)访问
 
-4.百度网盘
-百度网盘下载速度最慢，不建议使用。如必须从百度网盘下载，请做好长时间挂机下载的准备（可能需要1~2天）
+4. 百度网盘
+    
+    百度网盘下载速度最慢，不建议使用。如必须从百度网盘下载，请做好长时间挂机下载的准备（可能需要1~2天）
