@@ -8,6 +8,8 @@ deepvocal文档，正在建设中
 
 [Deepvocal相关工具](./tools.md)
 
+[Deepvocal中文音源收集](./singers.md)
+
 ### Deepvocal调校
 [1.Deepvocal简介](./deepvocal/1_description.md)
 

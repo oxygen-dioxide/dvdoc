@@ -42,7 +42,7 @@
 
 3. Google Drive
     
-    Google Drive链接无法直接访问，可使用[iGG谷歌访问助手](https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg)访问
+    Google Drive链接无法直接访问，可使用[iGG谷歌访问助手](https://microsoftedge.microsoft.com/addons/detail/igg%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/mchibleoefileemjfghfejaggonplmmg)访问。
 
 4. 百度网盘
     
