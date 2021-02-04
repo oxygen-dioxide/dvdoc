@@ -10,6 +10,7 @@
 |飞梦|卷毛兔w|北京航空航天大学|女|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/av246386661)|qq群:863271261 [百度网盘 提取码:fmdv](https://pan.baidu.com/s/1pwlOZZ5czc3_TpBzVCffqQ)|
 |葛平|葛平||男|整音|1|6.1|[精忠报国](https://www.bilibili.com/video/av83246615)|[腾讯微云](https://share.weiyun.com/5W3ceO9) [百度网盘 提取码:knra](https://pan.baidu.com/s/1aPjPlW1BerLhivUjdq8nQg)|
 |Janly|废柴盐|时研社|女|CVVC|1|7.0|[试听合集](https://www.bilibili.com/video/av798615800)|qq群:1167899685|
+|婕妲|Rose|Voicemith|女|CVVC|1|6.1|[邪恶的漆黑](https://www.bilibili.com/video/av968484639)|[腾讯微云](https://share.weiyun.com/5cDlabQ) [Google Drive](https://bit.ly/2XNUkOX)|
 |墨芸灼|粉芸||女|CVVC|1|6.1|[栖凰](https://www.bilibili.com/video/av754087331)|[百度网盘 提取码:uwfy](https://pan.baidu.com/s/1VBQDbupp9-JMwFckr_JdzQ)|
 |Pinku|Tora Ouji|JAE|男|CVVC|1|6.0|[大氿歌](https://www.bilibili.com/video/av60848549) [崇高症状](https://www.bilibili.com/video/av60952324/)|[Google Drive](https://drive.google.com/open?id=1ECWzTbCa-wVLOLreRsdD0NeEIEySgjCo) [百度网盘 提取码:xi7v](https://pan.baidu.com/s/1ThzdLQaeDsO7MObHijXFhQ)|
 |起礼|悠茗月尘||女|CVVC|3|7.0|[凤台答问](https://www.bilibili.com/video/av288283912)|qq群:234143343 [百度网盘 提取码:ggv7](https://pan.baidu.com/s/18LWNKq5hxL4P_xTp7Xv0Qg )|
