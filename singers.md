@@ -25,7 +25,7 @@
 |夏叶子|芮晴|韶和Project|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/av83490146)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
 |旭澜|夏宇||男|CVVC|1|6.1||qq群:177160319|
 |雲宇光|雲启时||男|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/av669940295)|qq群:831302201|
-|竹曦Rv|妖橙Yumo|启梦计划|女|CVVC||6.0|[御守](https://www.bilibili.com/video/av458949821)|qq群:1104581827|
+|竹曦Rv|妖橙Yumo|启梦计划|女|CVVC|3|6.0|[御守](https://www.bilibili.com/video/av458949821)|qq群:1104581827|
 
 ## 下载教程
 由于dv音源较大，请按以下优先级选择下载方式：qq群 > 腾讯微云 > OneDrive > Google Drive > 百度网盘
