@@ -36,3 +36,5 @@ deepvocal文档，正在建设中
 [deepvocal toolbox 文档](https://share.weiyun.com/5snXMol)
 
 [voicemith deepvocal 简易使用说明](https://share.weiyun.com/Y3FPamjv)
+
+[Boxstar(deepvocal开发者) linkedin主页](https://cn.linkedin.com/in/%E6%98%9F-%E4%BD%95-24815b18a)
