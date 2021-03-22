@@ -22,12 +22,14 @@
 |瑞比娅 Magic|妖木|女|CVVC|4|7.0|[海风](https://www.bilibili.com/video/av669639483)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |瑞比娅 Tarot|妖木|女|CVVC|1|7.0|[Nightension](https://www.bilibili.com/video/av839820448)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |若枫|萧翔泽|男|CVVC|2|6.1|[盛夏](https://www.bilibili.com/video/av201773213)|[百度网盘 提取码:ruof](https://pan.baidu.com/s/1v_NaQyhiqGQfM-Oz87kdoA)|
+|索韵Rila|猫铃Nekoring|女|CVVC|4|7.0|[星咏](https://www.bilibili.com/video/av886733835)|qq群:1075312453 [百度网盘 提取码:z7y1](https://pan.baidu.com/s/10Kf19iVQCU-uxugHX8r5Ng)|
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/av541078898)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/av583792400)|qq群:655178018|
 |夏祁铭|鬼面P|男|CVVC|3+1(假声)|6.1|[试听合集](https://www.bilibili.com/video/av288577987)|qq群:1083881873 [百度网盘 提取码:fgon](https://pan.baidu.com/s/1IkjkPOKva_Yhd3v024zgiA)|
 |夏叶子|芮晴|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/av83490146)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
 |旭澜|夏宇|男|CVVC|1|6.1||qq群:177160319|
 |亦濛|萱草砸成浆|女|整音|3|7.0|[栖凰](https://www.bilibili.com/video/av374713191)|[百度网盘 提取码:ngef](https://pan.baidu.com/s/1JVRDwx-tHp2uLzWI8pC_wA)|
+|月柬依|猫铃Nekoring|女|CVVC|3|7.0|[星咏](https://www.bilibili.com/video/av886733835)|qq群:1075312453 [百度网盘 提取码:ljkd](https://pan.baidu.com/s/1DJHgY25z_PpZQ6AWI7ZRgQ)|
 |雲宇光|雲启时|男|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/av669940295)|qq群:831302201|
 |竹曦Rv|妖橙Yumo|女|CVVC|3|6.0|[御守](https://www.bilibili.com/video/av458949821)|qq群:1104581827|
 
