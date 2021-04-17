@@ -28,6 +28,8 @@
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/av583792400)|qq群:655178018|
 |夏祁铭|鬼面P|男|CVVC|3+1(假声)|6.1|[试听合集](https://www.bilibili.com/video/av288577987)|qq群:1083881873 [百度网盘 提取码:fgon](https://pan.baidu.com/s/1IkjkPOKva_Yhd3v024zgiA)|
 |夏叶子|芮晴|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/av83490146)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
+|小梅花natural|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/av502596660) [心上秋](https://www.bilibili.com/video/av370179696)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
+|小梅花sweet|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/av502596660) [9Bang15便士](https://www.bilibili.com/video/av200933100) [无重力少女](https://www.bilibili.com/video/av712684002)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
 |旭澜|夏宇|男|CVVC|1|6.1||qq群:177160319|
 |翊|KENLV|男|CVVC|1|6.0|[神的女儿们](https://www.bilibili.com/video/av67553616) [千年辗转](https://www.bilibili.com/video/av67827352)|[Google Drive](https://drive.google.com/file/d/1gTHUQVi1pQ47la2pyaO4BUk3cRZJZCUZ/view) [百度网盘](https://pan.baidu.com/s/1zZwkCCl9wgustFsIpEAM3w)|
 |亦濛|萱草砸成浆|女|整音|3|7.0|[栖凰](https://www.bilibili.com/video/av374713191)|[百度网盘 提取码:ngef](https://pan.baidu.com/s/1JVRDwx-tHp2uLzWI8pC_wA)|
