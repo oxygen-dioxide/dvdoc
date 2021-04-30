@@ -51,7 +51,7 @@
 
 2. OneDrive
     
-    OneDrive链接无法直接访问，可以将"1drv.ms"改成"1drv.ws"即可下载
+    OneDrive链接无法直接访问，可以将"1drv.ms"改成"1drv.us"即可下载
 
 3. Google Drive
     
