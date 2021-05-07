@@ -31,11 +31,14 @@
 |小梅花natural|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1kK411F78f) [心上秋](https://www.bilibili.com/video/BV1FZ4y1x7xf)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
 |小梅花sweet|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1kK411F78f) [9Bang15便士](https://www.bilibili.com/video/BV1Vz411i7ma) [无重力少女](https://www.bilibili.com/video/BV1AD4y1R7i6)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
 |旭澜|夏宇|男|CVVC|1|6.1||qq群:177160319|
+|寻珀|璟轩|男|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1Kk4y1m7FU)|qq群:961863976|
+|YAO|乐天-Lotte|女|CVVC|4|6.1|[水叙湖风](https://www.bilibili.com/video/BV1cK4y1X7yM)|qq群:1084916757|
 |翊|KENLV|男|CVVC|1|6.0|[神的女儿们](https://www.bilibili.com/video/BV19J411P7cD) [千年辗转](https://www.bilibili.com/video/BV1qJ411A7KU)|[Google Drive](https://drive.google.com/file/d/1gTHUQVi1pQ47la2pyaO4BUk3cRZJZCUZ/view) [百度网盘](https://pan.baidu.com/s/1zZwkCCl9wgustFsIpEAM3w)|
 |亦濛|萱草砸成浆|女|整音|3|7.0|[栖凰](https://www.bilibili.com/video/BV1CZ4y1w7om)|[百度网盘 提取码:ngef](https://pan.baidu.com/s/1JVRDwx-tHp2uLzWI8pC_wA)|
 |勇气|樗儿|女|CVVC|4|6.1|[心跳23事](https://www.bilibili.com/video/BV1d7411s7sC)|[腾讯微云](https://share.weiyun.com/5i6ZQ7O)|
 |月柬依|猫铃Nekoring|女|CVVC|3|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:ljkd](https://pan.baidu.com/s/1DJHgY25z_PpZQ6AWI7ZRgQ)|
 |雲宇光|雲启时|男|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/BV1Va4y1L7DK)|qq群:831302201|
+|真月|巫烨|女|CVVC|1|6.1|[不老梦](https://www.bilibili.com/video/BV12a411A7qJ)|[百度网盘 提取码:p297](https://pan.baidu.com/s/1GyVYb-aPCa3U79vDymnvcA)|
 |竹曦Rv|妖橙Yumo|女|CVVC|3|6.0|[御守](https://www.bilibili.com/video/BV1k5411J7Z4)|qq群:1104581827|
 
 ## 下载教程
