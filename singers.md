@@ -6,6 +6,7 @@
 
 |名称|CV|性别|录音表配置|音阶数|引擎版本|试听|下载|
 |-|-|-|-|-|-|-|-|
+|筆墨クミ|Cubialpha|女|CVVC|4|7.0|[花欺~沉睡在浮空的花海](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)|[Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)|
 |Cecilia Cadenza|LotteV|女|CVVC|3|6.1|[中华墨水娘](https://www.bilibili.com/video/BV1pA411n7u4)|[mediafire](http://www.mediafire.com/file/fv7kd2rotg2uptm/CeciliaCadenza_ZH_v0.5b.zip/file)|
 |飞梦|卷毛兔w|女|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/BV1yv411s7Wb)|qq群:863271261 [百度网盘 提取码:fmdv](https://pan.baidu.com/s/1pwlOZZ5czc3_TpBzVCffqQ)|
 |葛平|葛平|男|整音|1|6.1|[精忠报国](https://www.bilibili.com/video/BV1fJ411n7km)|[腾讯微云](https://share.weiyun.com/5W3ceO9) [百度网盘 提取码:knra](https://pan.baidu.com/s/1aPjPlW1BerLhivUjdq8nQg)|
