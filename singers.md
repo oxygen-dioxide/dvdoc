@@ -7,8 +7,10 @@
 |名称|CV|性别|录音表配置|音阶数|引擎版本|试听|下载|
 |-|-|-|-|-|-|-|-|
 |筆墨クミ|Cubialpha|女|CVVC|4|7.0|[花欺~沉睡在浮空的花海](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)|[Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)|
+|缤樱|大海的好朋友|女|CVVC|3|7.0|[时光盲盒](https://www.bilibili.com/video/BV1CZ4y1P7C9)|qq群:1149485035|
 |Cecilia Cadenza|LotteV|女|CVVC|3|6.1|[中华墨水娘](https://www.bilibili.com/video/BV1pA411n7u4)|[mediafire](http://www.mediafire.com/file/fv7kd2rotg2uptm/CeciliaCadenza_ZH_v0.5b.zip/file)|
 |飞梦|卷毛兔w|女|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/BV1yv411s7Wb)|qq群:863271261 [百度网盘 提取码:fmdv](https://pan.baidu.com/s/1pwlOZZ5czc3_TpBzVCffqQ)|
+|符灵|棠华|女|CVVC|1|7.0|[夜航星](https://www.bilibili.com/video/BV1Mb4y1Z7DJ)|qq群:917086410|
 |葛平|葛平|男|整音|1|6.1|[精忠报国](https://www.bilibili.com/video/BV1fJ411n7km)|[腾讯微云](https://share.weiyun.com/5W3ceO9) [百度网盘 提取码:knra](https://pan.baidu.com/s/1aPjPlW1BerLhivUjdq8nQg)|
 |幻晓伊|未知|女|CVVC|4|3.4|[海星人鱼](https://www.bilibili.com/video/BV1Ps411Y7Cp)|[直链下载](http://sharpkey-files.oss-cn-beijing.aliyuncs.com/sharpkey_voice/Setup_HuanXiaoYi_v1.2.exe)|
 |灰雨千|落雨|男|整音|5|6.0|[昔巷旧梦](https://www.bilibili.com/video/BV1i4411U7sn)|[百度网盘 提取码:48ki](https://pan.baidu.com/s/1WkuLQSqqHQywfctMh__jKA)|
@@ -26,7 +28,7 @@
 |若枫|萧翔泽|男|CVVC|2|6.1|[盛夏](https://www.bilibili.com/video/BV1Sh411d7Fd)|[百度网盘 提取码:ruof](https://pan.baidu.com/s/1v_NaQyhiqGQfM-Oz87kdoA)|
 |索韵Rila|猫铃Nekoring|女|CVVC|4|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:z7y1](https://pan.baidu.com/s/10Kf19iVQCU-uxugHX8r5Ng)|
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/BV1Wi4y1G7pc)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
-|曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT)|qq群:655178018|
+|曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT) [生](https://www.bilibili.com/video/BV1xK4y1374p)|qq群:655178018 [百度网盘 提取码:1014](https://pan.baidu.com/s/1ax19n7V3DsXMU4XW_JKfFg)|
 |夏祁铭|鬼面P|男|CVVC|3+1(假声)|6.1|[试听合集](https://www.bilibili.com/video/BV1Gf4y1y78m)|qq群:1083881873 [百度网盘 提取码:fgon](https://pan.baidu.com/s/1IkjkPOKva_Yhd3v024zgiA)|
 |夏叶子|芮晴|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/BV1WJ411J7k3)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
 |小梅花natural|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1kK411F78f) [心上秋](https://www.bilibili.com/video/BV1FZ4y1x7xf)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
