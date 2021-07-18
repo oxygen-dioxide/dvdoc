@@ -7,7 +7,9 @@
 [下载](https://www.deep-vocal.com/#/Downloading?target=editor)
 
 ### Utaformatix3 by sdercolin
-一个在线的歌声合成工程转换器，支持vsqx, vpr, vsq, ust, ccs, svp, s5p, dv [打开](https://sdercolin.github.io/utaformatix3/)
+一个在线的歌声合成工程转换器，支持vsqx, vpr, vsq, ust, ccs, svp, s5p, dv 
+
+[打开](https://sdercolin.github.io/utaformatix3/)
 
 ## 音源制作
 
@@ -15,6 +17,11 @@
 Deepvocal音源制作工具，包括原音设定、建模、打包功能。
 
 [下载](https://www.deep-vocal.com/#/Downloading?target=toolbox)
+
+### Deepvocal mark tool (DVMT) by FangCunWuChang
+Deepvocal第三方原音设定工具。
+
+[下载](https://github.com/FangCunWuChang/DeepVocal-Mark-Tool/releases)
 
 ### oremo by 耳ロボP
 音源录制软件，可以在录音时播放BGM以便掌控音高和发音时值，自动按录音表命名音频文件，极大方便了音源录制工作。

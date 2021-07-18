@@ -20,7 +20,7 @@ deepvocal文档，正在建设中
 
 [3.音频后期处理](./deepvocaltoolbox/3_post_processing.md)
 
-
+[6.编译与打包](./deepvocaltoolbox/6_compiling_and_packing.md)
 
 ## 参与贡献
 1.  Fork 本仓库

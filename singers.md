@@ -26,6 +26,7 @@
 |瑞比娅 Magic|妖木|女|CVVC|4|7.0|[海风](https://www.bilibili.com/video/BV1Wa4y1j7hM)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |瑞比娅 Tarot|妖木|女|CVVC|1|7.0|[Nightension](https://www.bilibili.com/video/BV1D54y117Qi)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |若枫|萧翔泽|男|CVVC|2|6.1|[盛夏](https://www.bilibili.com/video/BV1Sh411d7Fd)|[百度网盘 提取码:ruof](https://pan.baidu.com/s/1v_NaQyhiqGQfM-Oz87kdoA)|
+|石镜|緑|女|CVVC|
 |索韵Rila|猫铃Nekoring|女|CVVC|4|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:z7y1](https://pan.baidu.com/s/10Kf19iVQCU-uxugHX8r5Ng)|
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/BV1Wi4y1G7pc)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT) [生](https://www.bilibili.com/video/BV1xK4y1374p)|qq群:655178018 [百度网盘 提取码:1014](https://pan.baidu.com/s/1ax19n7V3DsXMU4XW_JKfFg)|
@@ -36,6 +37,7 @@
 |旭澜|夏宇|男|CVVC|1|6.1||qq群:177160319|
 |寻珀|璟轩|男|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1Kk4y1m7FU)|qq群:961863976|
 |YAO|乐天-Lotte|女|CVVC|4|6.1|[水叙湖风](https://www.bilibili.com/video/BV1cK4y1X7yM)|qq群:1084916757|
+|颜皊|Zoe_九沫|女|CVVC|1|7.0|[C U tmr](https://www.bilibili.com/video/av248957111)|qq群:260635778|
 |翊|KENLV|男|CVVC|1|6.0|[神的女儿们](https://www.bilibili.com/video/BV19J411P7cD) [千年辗转](https://www.bilibili.com/video/BV1qJ411A7KU)|[Google Drive](https://drive.google.com/file/d/1gTHUQVi1pQ47la2pyaO4BUk3cRZJZCUZ/view) [百度网盘](https://pan.baidu.com/s/1zZwkCCl9wgustFsIpEAM3w)|
 |亦濛|萱草砸成浆|女|整音|3|7.0|[栖凰](https://www.bilibili.com/video/BV1CZ4y1w7om)|[百度网盘 提取码:ngef](https://pan.baidu.com/s/1JVRDwx-tHp2uLzWI8pC_wA)|
 |勇气|樗儿|女|CVVC|4|6.1|[心跳23事](https://www.bilibili.com/video/BV1d7411s7sC)|[腾讯微云](https://share.weiyun.com/5i6ZQ7O)|
