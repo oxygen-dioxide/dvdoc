@@ -26,7 +26,7 @@
 |瑞比娅 Magic|妖木|女|CVVC|4|7.0|[海风](https://www.bilibili.com/video/BV1Wa4y1j7hM)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |瑞比娅 Tarot|妖木|女|CVVC|1|7.0|[Nightension](https://www.bilibili.com/video/BV1D54y117Qi)|[Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |若枫|萧翔泽|男|CVVC|2|6.1|[盛夏](https://www.bilibili.com/video/BV1Sh411d7Fd)|[百度网盘 提取码:ruof](https://pan.baidu.com/s/1v_NaQyhiqGQfM-Oz87kdoA)|
-|石镜|緑|女|CVVC|
+|石镜|緑|女|CVVC|3|6.1|[试听合集](https://www.bilibili.com/video/av713051397)|qq群:684184836|
 |索韵Rila|猫铃Nekoring|女|CVVC|4|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:z7y1](https://pan.baidu.com/s/10Kf19iVQCU-uxugHX8r5Ng)|
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/BV1Wi4y1G7pc)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT) [生](https://www.bilibili.com/video/BV1xK4y1374p)|qq群:655178018 [百度网盘 提取码:1014](https://pan.baidu.com/s/1ax19n7V3DsXMU4XW_JKfFg)|
