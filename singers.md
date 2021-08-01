@@ -29,6 +29,7 @@
 |石镜|緑|女|CVVC|3|6.1|[试听合集](https://www.bilibili.com/video/av713051397)|qq群:684184836|
 |索韵Rila|猫铃Nekoring|女|CVVC|4|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:z7y1](https://pan.baidu.com/s/10Kf19iVQCU-uxugHX8r5Ng)|
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/BV1Wi4y1G7pc)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
+|雯煦|未知|女|整音|1|7.0|[夜行少女](https://www.bilibili.com/video/av334409171)|[百度网盘 提取码:cvqj](https://pan.baidu.com/s/1vb9oHPI6qDw2qim01sEZ1g )|
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT) [生](https://www.bilibili.com/video/BV1xK4y1374p)|qq群:655178018 [百度网盘 提取码:1014](https://pan.baidu.com/s/1ax19n7V3DsXMU4XW_JKfFg)|
 |夏祁铭|鬼面P|男|CVVC|3+1(假声)|6.1|[试听合集](https://www.bilibili.com/video/BV1Gf4y1y78m)|qq群:1083881873 [百度网盘 提取码:fgon](https://pan.baidu.com/s/1IkjkPOKva_Yhd3v024zgiA)|
 |夏叶子|芮晴|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/BV1WJ411J7k3)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
