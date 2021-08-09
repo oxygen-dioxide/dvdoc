@@ -15,6 +15,7 @@
 |幻晓伊|未知|女|CVVC|4|3.4|[海星人鱼](https://www.bilibili.com/video/BV1Ps411Y7Cp)|[直链下载](http://sharpkey-files.oss-cn-beijing.aliyuncs.com/sharpkey_voice/Setup_HuanXiaoYi_v1.2.exe)|
 |灰雨千|落雨|男|整音|5|6.0|[昔巷旧梦](https://www.bilibili.com/video/BV1i4411U7sn)|[百度网盘 提取码:48ki](https://pan.baidu.com/s/1WkuLQSqqHQywfctMh__jKA)|
 |Janly|废柴盐|女|CVVC|1|7.0|[试听合集](https://www.bilibili.com/video/BV19y4y127UH)|qq群:1167899685|
+|江上曜|他城P|男|CVVC|2|7.0||[百度网盘 提取码:tcdv](https://pan.baidu.com/s/1zP_T2duQWInr7DNWP0w0sw)|
 |婕妲|Rose|女|CVVC|1|6.1|[邪恶的漆黑](https://www.bilibili.com/video/BV1np4y1D7ws)|[腾讯微云](https://share.weiyun.com/5cDlabQ) [Google Drive](https://bit.ly/2XNUkOX)|
 |零院|瞰星|女|CVVC|1|6.1|[Journey](https://www.bilibili.com/video/BV1c5411P7qX)|qq群:1070967586 [百度网盘 提取码:bhhh](https://pan.baidu.com/s/1elz9GC_XYmVgLwzxVFn0uQ)|
 |墨芸灼|粉芸|女|CVVC|1|6.1|[栖凰](https://www.bilibili.com/video/BV1Yk4y1m7hG)|[百度网盘 提取码:uwfy](https://pan.baidu.com/s/1VBQDbupp9-JMwFckr_JdzQ)|
