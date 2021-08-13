@@ -2,7 +2,7 @@
 
 本页面收集可公开获取的Deepvocal中文音源，以帮助deepvocal用户找到自己想要的音源。
 
-如果你的音源未被收录，或者这里的信息有错误，或者你想下架你的音源，请[提出issue](https://github.com/oxygen-dioxide/dvdoc/issues/new/choose)。
+如果你想添加音源，更正错误，或者下架音源，请[提出issue](https://github.com/oxygen-dioxide/dvdoc/issues/new/choose)。
 
 |名称|CV|性别|录音表配置|音阶数|引擎版本|试听|下载|
 |-|-|-|-|-|-|-|-|
@@ -18,6 +18,7 @@
 |江上曜|他城P|男|CVVC|2|7.0||[百度网盘 提取码:tcdv](https://pan.baidu.com/s/1zP_T2duQWInr7DNWP0w0sw)|
 |婕妲|Rose|女|CVVC|1|6.1|[邪恶的漆黑](https://www.bilibili.com/video/BV1np4y1D7ws)|[腾讯微云](https://share.weiyun.com/5cDlabQ) [Google Drive](https://bit.ly/2XNUkOX)|
 |零院|瞰星|女|CVVC|1|6.1|[Journey](https://www.bilibili.com/video/BV1c5411P7qX)|qq群:1070967586 [百度网盘 提取码:bhhh](https://pan.baidu.com/s/1elz9GC_XYmVgLwzxVFn0uQ)|
+|Malory|PizzaLynne|女|||[谁杀死了知更鸟](https://www.youtube.com/watch?v=_woa_fJnnf0)|[Mediafire](https://www.mediafire.com/file/0x4wzau4v36vu3z/Malory+CN+v1.0.zip/file)|
 |墨芸灼|粉芸|女|CVVC|1|6.1|[栖凰](https://www.bilibili.com/video/BV1Yk4y1m7hG)|[百度网盘 提取码:uwfy](https://pan.baidu.com/s/1VBQDbupp9-JMwFckr_JdzQ)|
 |Pinku|Tora Ouji|男|CVVC|1|6.0|[大氿歌](https://www.bilibili.com/video/BV1Bt411A7ab) [崇高症状](https://www.bilibili.com/video/BV1Jt411P7vU/)|[Google Drive](https://drive.google.com/open?id=1ECWzTbCa-wVLOLreRsdD0NeEIEySgjCo) [百度网盘 提取码:xi7v](https://pan.baidu.com/s/1ThzdLQaeDsO7MObHijXFhQ)|
 |起复|这是一根手指|男|CVVC|3|7.0|[凤台答问](https://www.bilibili.com/video/BV1Bf4y1e7wJ)|qq群:234143343 [百度网盘 提取码:ggv7](https://pan.baidu.com/s/18LWNKq5hxL4P_xTp7Xv0Qg )|
