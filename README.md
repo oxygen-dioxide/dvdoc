@@ -3,7 +3,7 @@
 [Gitee](https://gitee.com/oxygendioxide/dvdoc) |
 [Gitlab](https://gitlab.com/oxygen-dioxide/dvdoc) |
 [Bitbucket](https://bitbucket.org/oxygendioxide/dvdoc) | 
-[Coding](https://e.coding.net/oxygen-dioxide/1/dvdoc.git)
+[Coding](https://oxygen-dioxide.coding.net/public/1/dvdoc/git/files)
 
 deepvocal文档，正在建设中
 

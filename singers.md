@@ -17,6 +17,7 @@
 |Janly|废柴盐|女|CVVC|1|7.0|[试听合集](https://www.bilibili.com/video/BV19y4y127UH)|qq群:1167899685|
 |江上曜|他城P|男|CVVC|2|7.0||[百度网盘 提取码:tcdv](https://pan.baidu.com/s/1zP_T2duQWInr7DNWP0w0sw)|
 |婕妲|Rose|女|CVVC|1|6.1|[邪恶的漆黑](https://www.bilibili.com/video/BV1np4y1D7ws)|[腾讯微云](https://share.weiyun.com/5cDlabQ) [Google Drive](https://bit.ly/2XNUkOX)|
+|林森|莎律律律|女|CVVC|1|6.1|[烟火](https://www.bilibili.com/video/av589132007) [十二号诛杀者](https://www.bilibili.com/video/av499656395)|qq群:462590774|
 |零院|瞰星|女|CVVC|1|6.1|[Journey](https://www.bilibili.com/video/BV1c5411P7qX)|qq群:1070967586 [百度网盘 提取码:bhhh](https://pan.baidu.com/s/1elz9GC_XYmVgLwzxVFn0uQ)|
 |Malory|PizzaLynne|女|CVVC|2|6.1|[谁杀死了知更鸟](https://www.youtube.com/watch?v=_woa_fJnnf0)|[Mediafire](https://www.mediafire.com/file/0x4wzau4v36vu3z/Malory+CN+v1.0.zip/file)|
 |墨芸灼|粉芸|女|CVVC|1|6.1|[栖凰](https://www.bilibili.com/video/BV1Yk4y1m7hG)|[百度网盘 提取码:uwfy](https://pan.baidu.com/s/1VBQDbupp9-JMwFckr_JdzQ)|
