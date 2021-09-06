@@ -26,6 +26,7 @@
 |起复|这是一根手指|男|CVVC|3|7.0|[凤台答问](https://www.bilibili.com/video/BV1Bf4y1e7wJ)|qq群:234143343 [百度网盘 提取码:ggv7](https://pan.baidu.com/s/18LWNKq5hxL4P_xTp7Xv0Qg )|
 |起礼|悠茗月尘|女|CVVC|3|7.0|[凤台答问](https://www.bilibili.com/video/BV1Bf4y1e7wJ)|qq群:234143343 [百度网盘 提取码:ggv7](https://pan.baidu.com/s/18LWNKq5hxL4P_xTp7Xv0Qg )|
 |浅樱|荔枝odihs|女|CVVC|4|6.1|[浅夜](https://www.bilibili.com/video/BV1L64y1M7Na)|qq群:952024974 [百度网盘 提取码:QYDV](https://pan.baidu.com/s/1lNKJwqsgwABi8RUApG7Big)|
+|晴霁|泺年|男|CVVC|1|7.0|[In Your Breath](https://www.bilibili.com/video/av717799355)|qq群:797431134|
 |瑞比娅 Fortune|妖木|女|CVVC|4|7.0|[告白/告别](https://www.bilibili.com/video/BV1D54y117Qi)|[阿里云盘](https://www.aliyundrive.com/s/bUoecyo3fBo/folder/6117acf63ed6776f4f8a45e1a2a137fcb9fd5855) [Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |瑞比娅 Magic|妖木|女|CVVC|4|7.0|[海风](https://www.bilibili.com/video/BV1Wa4y1j7hM)|[阿里云盘](https://www.aliyundrive.com/s/bUoecyo3fBo/folder/6117acf63ed6776f4f8a45e1a2a137fcb9fd5855) [Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
 |瑞比娅 Tarot|妖木|女|CVVC|1|7.0|[Nightension](https://www.bilibili.com/video/BV1D54y117Qi)|[阿里云盘](https://www.aliyundrive.com/s/bUoecyo3fBo/folder/6117acf63ed6776f4f8a45e1a2a137fcb9fd5855) [Google drive](https://drive.google.com/drive/folders/1K_ThzO9Gn-c-boyuElAxqXK54kR1KcL6)|
