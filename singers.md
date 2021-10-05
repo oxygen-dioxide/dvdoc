@@ -6,6 +6,7 @@
 
 |名称|CV|性别|录音表配置|音阶数|引擎版本|试听|下载|
 |-|-|-|-|-|-|-|-|
+|Alote|白洛_ほしの|女|CVVC|1|7.0|[伽蓝经](https://www.bilibili.com/video/BV1934y1S7ir)|qq群:431516193|
 |筆墨クミ|Cubialpha|女|CVVC|4|7.0|[花欺~沉睡在浮空的花海](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)|[Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)|
 |缤樱|大海的好朋友|女|CVVC|3|7.0|[时光盲盒](https://www.bilibili.com/video/BV1CZ4y1P7C9)|qq群:1149485035|
 |Cecilia Cadenza|LotteV|女|CVVC|3|6.1|[中华墨水娘](https://www.bilibili.com/video/BV1pA411n7u4)|[mediafire](http://www.mediafire.com/file/fv7kd2rotg2uptm/CeciliaCadenza_ZH_v0.5b.zip/file)|
@@ -18,6 +19,7 @@
 |江上曜|他城P|男|CVVC|2|7.0||[百度网盘 提取码:tcdv](https://pan.baidu.com/s/1zP_T2duQWInr7DNWP0w0sw)|
 |婕妲|Rose|女|CVVC|1|6.1|[邪恶的漆黑](https://www.bilibili.com/video/BV1np4y1D7ws)|[腾讯微云](https://share.weiyun.com/5cDlabQ) [Google Drive](https://bit.ly/2XNUkOX)|
 |玖辰|顾梧言|男|CVVC|3|7.0|[404](https://www.bilibili.com/video/av504964960)|qq群:597850130 [腾讯微云 提取码:jc1103](https://share.weiyun.com/ThMil9cD)|
+|廖澄奏|忆想诗|女|CVVC|3|7.0|[小夜曲](https://www.bilibili.com/video/BV1L64y187Mw)|qq群:779585798 [百度网盘 提取码:1210](https://pan.baidu.com/s/1Q5FF4cy6OjCJ_oPvFSmuIw)|
 |林森|莎律律律|女|CVVC|1|6.1|[烟火](https://www.bilibili.com/video/av589132007) [十二号诛杀者](https://www.bilibili.com/video/av499656395)|qq群:462590774|
 |零院|瞰星|女|CVVC|1|6.1|[Journey](https://www.bilibili.com/video/BV1c5411P7qX)|qq群:1070967586 [百度网盘 提取码:bhhh](https://pan.baidu.com/s/1elz9GC_XYmVgLwzxVFn0uQ)|
 |Malory|PizzaLynne|女|CVVC|2|6.1|[谁杀死了知更鸟](https://www.youtube.com/watch?v=_woa_fJnnf0)|[Mediafire](https://www.mediafire.com/file/0x4wzau4v36vu3z/Malory+CN+v1.0.zip/file)|
@@ -36,6 +38,7 @@
 |天碎瓷|CV她放慢步调|女|CVVC|3|6.1|[螣蛇乘雾来](https://www.bilibili.com/video/BV1Wi4y1G7pc)|qq群:1014862803 [百度网盘 提取码:rf2p](https://pan.baidu.com/s/15oLQEK8hEVIXq_BFGh9xXw )|
 |雯煦|未知|女|整音|1|7.0|[夜行少女](https://www.bilibili.com/video/av334409171)|[百度网盘 提取码:cvqj](https://pan.baidu.com/s/1vb9oHPI6qDw2qim01sEZ1g )|
 |曦和律|Kohane君|女|CVVC|1|7.0|[月光掌](https://www.bilibili.com/video/BV12z4y1X7GT) [生](https://www.bilibili.com/video/BV1xK4y1374p)|qq群:655178018 [百度网盘 提取码:1014](https://pan.baidu.com/s/1ax19n7V3DsXMU4XW_JKfFg)|
+|曦瑶|河阿飘豚w|女|CVVC|3|7.0|[而我必须逆风执火](https://www.bilibili.com/video/BV123411y71Z)|qq群:1075463127|
 |夏祁铭|鬼面P|男|CVVC|3+1(假声)|6.1|[试听合集](https://www.bilibili.com/video/BV1Gf4y1y78m)|qq群:1083881873 [百度网盘 提取码:fgon](https://pan.baidu.com/s/1IkjkPOKva_Yhd3v024zgiA)|
 |夏叶子|芮晴|女|CVVC|3|6.1|[Orange](https://www.bilibili.com/video/BV1WJ411J7k3)|qq群:775802167 [腾讯微云](https://share.weiyun.com/5T3AQFg) [Google Drive](https://drive.google.com/open?id=1djBX_wTszaScBnE1eqFJ0_9pm8l3mRQ4) [百度网盘 提取码:jan6](https://pan.baidu.com/s/1LbhZ9dKWiwIqajy4l-58Yw)|
 |小梅花natural|実偽Migi|女|CVVC|1|6.1|[试听合集](https://www.bilibili.com/video/BV1kK411F78f) [心上秋](https://www.bilibili.com/video/BV1FZ4y1x7xf)|[Dropbox](https://www.dropbox.com/s/xpzltoccrmvsxxh/JAE-01%20%E5%B0%8F%E6%A2%85%E8%8A%B1%20CVVChinese%20DeepVocal%201.0.zip) [百度网盘 提取码:wgo5](https://pan.baidu.com/s/1-ORrXZXIoThJ9dGS03U-2Q)|
@@ -48,6 +51,7 @@
 |亦濛|萱草砸成浆|女|整音|3|7.0|[栖凰](https://www.bilibili.com/video/BV1CZ4y1w7om)|[百度网盘 提取码:ngef](https://pan.baidu.com/s/1JVRDwx-tHp2uLzWI8pC_wA)|
 |勇气|樗儿|女|CVVC|4|6.1|[心跳23事](https://www.bilibili.com/video/BV1d7411s7sC)|[腾讯微云](https://share.weiyun.com/5i6ZQ7O)|
 |月柬依|猫铃Nekoring|女|CVVC|3|7.0|[星咏](https://www.bilibili.com/video/BV19K4y1n7zP)|qq群:1075312453 [百度网盘 提取码:ljkd](https://pan.baidu.com/s/1DJHgY25z_PpZQ6AWI7ZRgQ)|
+|云野|伯添君|男|CVVC|1|7.0|[上山岗](https://www.bilibili.com/video/BV1RL4y187kD)|qq群:715757453|
 |雲宇光|雲启时|男|CVVC|3|7.0|[试听合集](https://www.bilibili.com/video/BV1Va4y1L7DK)|qq群:831302201 [百度网盘 提取码:YGDZ](https://pan.baidu.com/s/1Xgik9YTdX5xKPsvNo6fKaA )|
 |真月|巫烨|女|CVVC|1|6.1|[不老梦](https://www.bilibili.com/video/BV12a411A7qJ)|[百度网盘 提取码:p297](https://pan.baidu.com/s/1GyVYb-aPCa3U79vDymnvcA)|
 |竹曦Rv|妖橙Yumo|女|CVVC|3|6.0|[御守](https://www.bilibili.com/video/BV1k5411J7Z4)|qq群:1104581827|
